@@ -199,6 +199,14 @@ ul.courses .level {
 
 .pub .venue { font-style: italic; }
 
+.pub .orig {
+  display: block;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin-top: 0.25rem;
+}
+
 .meta {
   display: block;
   font-family: -apple-system, "Segoe UI", system-ui, sans-serif;
